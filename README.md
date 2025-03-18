@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiaoxuan Liu@xuaner233
-- 👀 I’m interested in RISCV related
-- 🌱 I’m currently learning BT/LLVM etc.
+- 👀 I’m interested in RISCV/AI/Robot related
+- 🌱 I’m currently learning VLA etc.
 - 💞️ I’m looking to collaborate on ?Not sure?
 - 📫 
 
